@@ -1,0 +1,9 @@
+Es un juego tipo Doom pero mas parecido a Dusk.
+Ya se puede movel libremente y manipular la camara, asi como saltar, pero
+el salto no funciona correctamente. Ya se utiliza el raycast cuando se 
+dipara pero aun no hay efectos de fuego o de casquillos saleiendo del arma.
+Las colisiones con lo que se supone que son montanas no funcionan 
+correctamente y tampoco las colisiones con las paredes de la casita, y 
+las escaleras se pueden subir y hay un objeto que aumnenta la salud
+y otro que aumenta la resistencia a material toxico(que aun no hay)
+que ya funcionan bien.
